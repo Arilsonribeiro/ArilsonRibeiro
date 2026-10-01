@@ -1,8 +1,7 @@
 # 👨‍💻 Arilson Ribeiro
 
 **` Analista de Dados| Desenvolvedor Júnior `**
-
-Me chamo Arilson Ribeiro Moreira e sou formado em Análise e Desenvolvimento de Sistemas. Tenho interesse em tecnologia e estou em transição para a área de TI, buscando minha primeira oportunidade profissional como Desenvolvedor Júnior ou Analista de Dados Júnior.
+Meu nome é Arilson Ribeiro Moreira e sou formado em Análise e Desenvolvimento de Sistemas. Tenho interesse em tecnologia e estou em transição para a área de TI, buscando minha primeira oportunidade profissional como Desenvolvedor Júnior ou Analista de Dados Júnior.
 
 Durante minha formação, desenvolvi conhecimentos em Python, Java, JavaScript, SQL e React Native, além de conceitos de desenvolvimento de software, banco de dados e análise de dados. Também venho desenvolvendo projetos pessoais e acadêmicos para colocar esses conhecimentos em prática e construir meu portfólio.
 
